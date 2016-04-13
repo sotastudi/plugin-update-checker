@@ -1,0 +1,38 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: plugin-update-checker\n"
+"POT-Creation-Date: 2016-04-13 14:14+0200\n"
+"PO-Revision-Date: 2016-04-13 14:15+0200\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"Last-Translator: Sotastudi <web@sotastudi.com>\n"
+"Language: ca\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: github-checker.php:137
+msgid "There is no changelog available."
+msgstr "No hi ha registre de canvi disponible."
+
+#: plugin-update-checker.php:852
+msgid "Check for updates"
+msgstr "Comprovar actualitzacions"
+
+#: plugin-update-checker.php:896
+msgid "This plugin is up to date."
+msgstr "El plugin ja està actualitzat."
+
+#: plugin-update-checker.php:898
+msgid "A new version of this plugin is available."
+msgstr "Hi ha una nova versió disponible."
+
+#: plugin-update-checker.php:900
+#, php-format
+msgid "Unknown update checker status \"%s\""
+msgstr "Estat de l’actualització desconegut “%s”"
